@@ -19,7 +19,7 @@ A secure, user-friendly file sharing application built with React and Node.js. T
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **Authentication**: JWT
-- **File Storage**: Local filesystem with encryption
+- **File Storage**: Remote filesystem with encryption
 - **File Compression**: Archiver for folder downloads
 
 ## Local Development Setup
