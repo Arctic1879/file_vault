@@ -77,7 +77,21 @@ The application will be available at `http://localhost:3000`
 
 ## Screenshots
 
-[Coming soon]
+### Dark Mode Interface
+![Dark Mode Dashboard](docs/images/darkmode.png)
+*File management interface in dark mode with orange-themed storage indicator*
+
+### Light Mode Interface
+![Light Mode Dashboard](docs/images/lightmode.png)
+*Clean and bright interface for day-time usage*
+
+### Secure Login
+![Login Screen](docs/images/login.png)
+*Secure authentication with JWT token-based session management*
+
+### File Upload
+![File Upload Dialog](docs/images/fileupload.png)
+*Intuitive file upload interface with drag-and-drop support*
 
 ## Author
 
