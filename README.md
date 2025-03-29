@@ -81,7 +81,7 @@ The application will be available at `http://localhost:3000`
 
 ## Author
 
-[Your Name] - [Your Portfolio/GitHub Link]
+[Arctic1879](https://github.com/Arctic1879) - Creator and maintainer of ArcticVault
 
 ## License
 
